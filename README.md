@@ -26,10 +26,3 @@ https://github.com/madarahr/portfolio.git
 
 ![](portfolio_madarapu.png)
 
-
-
-
-A link to my portoflio showcasing my projects is below:
-https://github.com/madarahr/portfolio.git
-
-![](portfolio_madarapu.png)
